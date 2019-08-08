@@ -13,3 +13,6 @@ Currently contains:
     * training set `KaggleData/census.csv`
     * testing set `KaggleData/test_census.csv`
     * submission `KaggleData/submission.csv`
+* Images Classification Project (teach computer to identify flowers) **Ongoing**
+    * main file `Image Classifier Project.ipynb`
+    * **N.B.** This project is made to run on Udacity GPUs, and the image database is missing (too large for GitHub) 
